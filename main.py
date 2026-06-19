@@ -121,6 +121,9 @@ elif type == 2:
             
             if Operators[len(Operators)-1] == "*":
                 temp.append(product)
+            
+            if Operators[len(Operators)-1] == "+":
+                solution = solution + Numbers[len(Operators)-1]
 
             a=0
             while a < len(temp):
