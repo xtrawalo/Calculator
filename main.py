@@ -1,8 +1,7 @@
 Numbers = []
 Operators = []
 solution = 0
-
-type = int(input('Choose one calculator (1, 2) : '))
+type = int(input("=================================== \n         DOUBLE CALCULATOR          \n=================================== \n\n1. Left-to-right calculator \n2. Precedence-aware calculator \n \n Choose one calculator (1, 2) : "))
 start = 0
 
 while start < 1:
