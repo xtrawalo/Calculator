@@ -56,7 +56,7 @@ while start < 1:
                         solution = solution - Numbers[i+1]
             print (solution)
 
-            if i == 6:
+            if i == 5:
                 choice = input('Restart (Y/N) : ')
                 if choice == "Y" or choice == "y":
                     start = 0
@@ -169,6 +169,9 @@ while start < 1:
                 choice = input('Restart (Y/N) : ')
                 if choice == "Y" or choice == "y":
                     start = 0
+                    Numbers.clear()
+                    Operators.clear()
+                    solution = 0
                     break
                 elif choice == "N" or choice == "n":
                     start = 1
