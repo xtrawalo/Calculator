@@ -234,7 +234,9 @@ Asks the user whether to restart or not.
 ## Installation
 To Download it, check the latest Windows version from the **Releases** page.
 
-Here :  [DoubleCalculator-v1.0.0](https://github.com/xtrawalo/Calculator/releases/latest)
+Here → https://github.com/xtrawalo/Calculator/releases/latest
+
+View the project on **Horizons** : https://horizons.hackclub.com/app/projects/5501
 
 ## AI USAGE
 
