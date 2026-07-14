@@ -35,7 +35,7 @@ To Download it, check the latest Windows version from the **Releases** page.
 
 Here → https://github.com/xtrawalo/Calculator/releases/latest
 
-View the project on **Horizons** : https://horizons.hackclub.com/app/projects/5501
+View the project on **Horizons** : https://horizons.hackclub.com/projects/5501
 
 ## AI USAGE
 
