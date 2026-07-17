@@ -19,11 +19,11 @@ First, the program defines the required variables (`Numbers`, `Operators`, and `
 
 ### Left-to-right calculator
 
-The program asks the user to input numbers and operators gradually. At the same time, each operation is performed right away. Thus, `2 + 3 * 4 = (2 + 3) * 4`. After performing each step, the user can either continue, go back to the start, or exit the program.
+The program asks the user to enter a number, then an operation, then another number. After that, it gives the result. If the user wants to continue the operation with the given result, they just enter another operation and another number. The user can continue, restart, or exit.
 
 ### Precedence-aware calculator
 
-At first, all the numbers and operators that were entered by the user are stored. Later, the operations are performed according to the rules of order of operations by substituting subtraction with addition, division with multiplication, executing all multiplication operations, and adding all other numbers. Therefore, `2 + 3 * 4 = 2 + (3 * 4)`. After the result is printed, the user can restart or exit the program.
+The program asks the user to enter all the numbers and operations first. After that, it performs the calculations using the correct order of operations.
 
 ## Built With
 
