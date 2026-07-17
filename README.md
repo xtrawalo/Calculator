@@ -15,15 +15,16 @@
 
 ## How it works
 
-First, the program defines the required variables (`Numbers`, `Operators`, and `solution`). Next, the user is asked to select which calculator should be used. The program executes until the user decides to exit.
+First, the program defines the required variables (`Numbers`, `Operators`, and `solution`). Next, the user selects which calculator to use. After that, the program runs the selected calculator. The user continues using the calculator until he exits the program.
 
 ### Left-to-right calculator
 
-The program asks the user to enter a number, then an operation, then another number. After that, it gives the result. If the user wants to continue the operation with the given result, they just enter another operation and another number. The user can continue, restart, or exit.
+The user enters a number, then an operation, then another number. After that, it output the solution. If the user wants to continue the operation with the same result as the first number, he just enter another operation and another number. Also, The user can restart or exit anytime after each operation.
 
 ### Precedence-aware calculator
 
-The program asks the user to enter all the numbers and operations first. After that, it performs the calculations using the correct order of operations.
+The user enters all the numbers and operations first. After that, it performs the calculations using the correct order of 
+operations.
 
 ## Built With
 
