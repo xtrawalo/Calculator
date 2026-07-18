@@ -23,8 +23,7 @@ The user enters a number, then an operation, then another number. After that, it
 
 ### Precedence-aware calculator
 
-The user enters all the numbers and operations first. After that, it performs the calculations using the correct order of 
-operations.
+The user enters all the numbers and operations first. After that, the program performs the calculations using the correct order of operations, then it gives the result. Also, The user can restart or exit anytime after each operation.
 
 ## Built With
 
