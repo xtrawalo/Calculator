@@ -6,8 +6,8 @@
 ## Table of content
 
 - [How it works](#how-it-works)
-  - [Left-to-right calculator](#left-to-right-calculator)
-  - [Precedence-aware calculator](#precedence-aware-calculator)
+  - [Left-to-right calculator](#1--left-to-right-calculator)
+  - [Precedence-aware calculator](#2--precedence-aware-calculator)
 - [Built With](#built-with)
 - [Installation](#installation)
 - [AI Usage](#ai-usage)
@@ -17,11 +17,11 @@
 
 First, the program defines the required variables (`Numbers`, `Operators`, and `solution`). Next, the user selects which calculator to use. After that, the program runs the selected calculator. The user continues using the calculator until he exits the program.
 
-### Left-to-right calculator
+### 1- Left-to-right calculator
 
 The user enters a number, then an operation, then another number. After that, it output the solution. If the user wants to continue the operation with the same result as the first number, he just enter another operation and another number. Also, The user can restart or exit anytime after each operation.
 
-### Precedence-aware calculator
+### 2- Precedence-aware calculator
 
 The user enters all the numbers and operations first. After that, the program performs the calculations using the correct order of operations, then it gives the result. Also, The user can restart or exit anytime after each operation.
 
